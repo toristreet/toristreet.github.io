@@ -4,7 +4,9 @@ title:  "Content strategy is dead, long live content strategy"
 categories: content strategy, talks
 ---
 ![A title slide in the style of shakespeare that says 'Content strategy is dead, long live content strategy' over a black and white image of a historic graveyard. A banner covers the bottom of the image that says Tori Sanderson and 'Web Direction Summit 23.'](/assets/img/content-strategy-is-dead/content-strategy-is-dead.png)
+
 *This essay is based on a talk I gave at Web Directions Summit 23. It expands on many of the ideas I put forward in that talk, and provides further details.*
+
 If content strategy is dead, this painting tells the story of its decay.
 
 ![A classical painting of the Tower of Babel story.](/assets/img/content-strategy-is-dead/bruegel-the-elder-tower-of-babel.png)
@@ -32,7 +34,7 @@ If content design is the hard work of creating products that work, then content 
 
 But so often we fail to genuinely engage with an organisation’s very real constraints and challenges. We exist to **help build great products, not deliver great content strategies.** 
 
-![A cream slide with dark text that says "Building great products not delivering content strategies"](assets/img/content-strategy-is-dead/building-great-products.png)
+![](assets/img/content-strategy-is-dead/building-great-products.png)
 
 And yet so often we are like these people trying to build a tower, while not speaking the language of everyone around us.
 
