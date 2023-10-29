@@ -3,10 +3,11 @@ layout: post
 title:  "Content strategy is dead, long live content strategy"
 categories: content strategy, talks
 ---
+![A title slide in the style of shakespeare that says 'Content strategy is dead, long live content strategy' over a black and white image of a historic graveyard. A banner covers the bottom of the image that says Tori Sanderson and 'Web Direction Summit 23.'](/assets/img/content-strategy-is-dead/content-strategy-is-dead.png)
 *This essay is based on a talk I gave at Web Directions Summit 23. It expands on many of the ideas I put forward in that talk, and provides further details.*
 If content strategy is dead, this painting tells the story of its decay.
 
-![A classical painting of the Tower of Babel story.](/assets/img/bruegel-the-elder-tower-of-babel.png)
+![A classical painting of the Tower of Babel story.](/assets/img/content-strategy-is-dead/bruegel-the-elder-tower-of-babel.png)
 
 In 1563, Bruegel the Elder painted *The (Great) Tower of Babel.* It‘s story appears in a number of religious traditions (more on this below), and beautifully captures so many of the **challenges** and **problems** of content strategy. And, for that matter, of great products.
 
@@ -31,11 +32,13 @@ If content design is the hard work of creating products that work, then content 
 
 But so often we fail to genuinely engage with an organisation’s very real constraints and challenges. We exist to **help build great products, not deliver great content strategies.** 
 
+![A cream slide with dark text that says "Building great products not delivering content strategies"](assets/img/content-strategy-is-dead/building-great-products.png)
+
 And yet so often we are like these people trying to build a tower, while not speaking the language of everyone around us.
 
 ## The reality of (content) work
 
-I run a multi-disciplinary consulting practice over at ~[Pragma Partners](http://www.pragma.com.au/)~; we work with with large private sector organisations, highly regulated industry and federal government clients. 
+I run a multi-disciplinary consulting practice over at [Pragma Partners](http://www.pragma.com.au/); we work with with large private sector organisations, highly regulated industry and federal government clients. 
 
 We help our clients design and build digital products, but we want to do this sustainably. This means building products that our clients can operate in the long term, without seeing significant product quality decay.
 
@@ -45,19 +48,21 @@ But this isn’t just our clients.
 
 **Research shows that resourcing content is not a priority for most companies.** 
 
-A large(ish) survey conducted by ~[UX Content Collective](https://uxcontent.com/2023-content-design-salary-industry-survey/)~ this year found that most content folk are resourcing between 3–5 projects or product teams. 
+A large(ish) survey conducted by [UX Content Collective](https://uxcontent.com/2023-content-design-salary-industry-survey/) this year found that most content folk are resourcing between 3–5 projects or product teams. 
 
 That’s **one** content person in every **five** product teams. 
 
-Of course, we have also seen a global decline in user research, user experience and content roles over the 2022–2023 period. While this is indeed the result of macroeconomic forces that we perhaps shouldn’t spend too much time navel-gazing or anxiety-spiralling about, there is of course the uncomfortably reality that it is these roles, not the engineers or the accountants or even the marketers, that were discretionary enough to layoff. For all of the opportunity in the industry over the last couple of years, it is clear that the human-centred design field still has much work to do if it is to be seen as high value in the future. 
+Of course, we have also seen a global decline in user research, user experience and content roles over the 2022–2023 period. While this is indeed the result of macroeconomic forces that we perhaps shouldn’t spend too much time navel-gazing or anxiety-spiralling about, there is of course the uncomfortably reality that it is these roles, not the engineers or the accountants or even the marketers, that were discretionary enough to layoff. For all of the opportunity in the industry over the last couple of years, it is clear that the human-centred design field still has much work to do.
 
 And this is especially true in the content space. We — content designers, content strategists, content-leaning product thinkers — should be especially confronted by this.
 
 Because, of course, it also means this:
 
+![](assets/img/content-strategy-is-dead/content-isnt-created-by-content-people.png)
+
 To the extent that content on the web is created by people at *all* (no longer a given!), it is mostly **not** created by content people.
 
-An yet, it is still created! No client of ours suffers from too *little* content. No, the diagnosis is almost always too *much* content. (I have written about this ~[before](https://medium.com/pragma-partners/just-in-case-content-is-killing-your-user-experience-e390a7a28317)~.)
+An yet, it is still created! No client of ours suffers from too *little* content. No, the diagnosis is almost always too *much* content. (I have written about this [before](https://medium.com/pragma-partners/just-in-case-content-is-killing-your-user-experience-e390a7a28317).)
 
 Which tells us a few confronting things:
 
@@ -87,7 +92,8 @@ We need a new approach. 
 Over the last 12–24 months we’ve been working with clients to try a new way of achieving sustainable content quality over time. 
 
 And we’re convinced that **no decision you make about content will be as powerful as spending time with the people who make the content.**
-![](image%202.png)
+
+![](assets/img/content-strategy-is-dead/building-content-culture.png)
 
 ## Influence, not decisions
 
@@ -115,7 +121,9 @@ It wasn’t faster, or easier. But it does work.
 
 ## Changing content behaviour
 
-![](image%203.png)So how did we do this? 
+So how did we do this? 
+
+![](assets/img/content-strategy-is-dead/eiffel-tower.png)
 
 To extend the tower building metaphors, we start with a wide base. 
 
@@ -123,7 +131,7 @@ We first run wide content discoveries across as much of the organisation as we c
 
 This is all with one goal in mind: to turn **content stakeholders** into **content allies.** 
 
-![](image.png)
+![](assets/img/3-steps.png)
 
 ## Go wide in discovery
 I won’t go into detail here about running discovery activities or projects. Suffice to say, we aim to meet with or talk to as many people in the organisation as possible - every person who touches content while it makes its merry way from creation to production.
