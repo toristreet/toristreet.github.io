@@ -3,18 +3,23 @@ layout: post
 title:  "Content strategy is dead, long live content strategy"
 categories: content strategy, talks
 ---
-# Content strategy is dead, long live content strategy
 *This essay is based on a talk I gave at Web Directions Summit 23. It expands on many of the ideas I put forward in that talk, and provides further details.*
-- - -
 If content strategy is dead, this painting tells the story of its decay.
 ![A classical painting of the Tower of Babel story.](/assets/img/bruegel-the-elder-tower-of-babel.png)
-In 1563, Bruegel the Elder painted *The (Great) Tower of Babel.* It‘s story appears in a number of religious traditions (more on this below), and beautifully captures so many of the **challenges** and **problems** of content strategy. And, for that matter, of great products. 
+In 1563, Bruegel the Elder painted *The (Great) Tower of Babel.* It‘s story appears in a number of religious traditions (more on this below), and beautifully captures so many of the **challenges** and **problems** of content strategy. And, for that matter, of great products.
+
 The story goes like this. 
+
 Not long after the creation of the world, all the people on Earth came together and began to build a tower. They believed that if they built this tower tall enough — so tall it could reach the heavens — they would become gods. 
+
 But of course, the *actual* God wasn’t a great fan of this plan. So he gave the people a gift — or perhaps a curse. This gift/curse was the gift of languages. 
+
 From that moment, people from different tribes or nations began speaking in different tongues. They spoke to each other, but couldn’t understand each other. Once united, now people were divided by language and misunderstandings. 
+
 And what happened to their mighty Tower, which was going to bring them untold knowledge, power and divinity? Of course, all work ceased. The people scattered, abandoning their project. And so ended the first and last time humanity would be truly united for a single, common goal. 
+
 ---
+
 Working on digital products — particularly in the content space, — means wrestling with the sorts of problems this story deals with, every day.
 And I don’t just mean the experience of sitting in a room with a product manager, software engineer and product designer, trying to get them to agree on something. Talk about speaking different languages.
 If content design is the hard work of creating products that work, then content strategy, at its the best, is the **practice of aligning organisations on how to do this.**
