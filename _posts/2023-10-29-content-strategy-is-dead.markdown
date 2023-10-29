@@ -132,23 +132,48 @@ We first run wide content discoveries across as much of the organisation as we c
 
 This is all with one goal in mind: to turn **content stakeholders** into **content allies.** 
 
-![](/assets/img/3-steps.png)
+## Turning content owners into content allies
 
-## Go wide in discovery
+![](/assets/img/content-strategy-is-dead/3-steps.png)
+
+### Go wide in discovery
+
 I won’t go into detail here about running discovery activities or projects. Suffice to say, we aim to meet with or talk to as many people in the organisation as possible - every person who touches content while it makes its merry way from creation to production.
-I love a telescope as a metaphor for a discovery. Because discoveries can feel pretty broad and wide. And they need to be. But it’s easy to forget that you go wide, **so that** you know where to zoom in. You’re scanning wide so you can be informed about where you want to focus. And then you point your telescope. 
+
+I love a telescope as a metaphor for a discovery. Because discoveries can feel pretty broad and wide. And they need to be. But it’s easy to forget that you go wide, **so that** you know where to zoom in. You’re scanning wide so you can be informed about where you want to focus. 
+
+And then you point your telescope. 
+
 In our content discoveries, we’re meeting with everyone possible, so that we can find the hidden corners and dark spots where we might turnover something interesting. Who are the people who - with some training and support - can make a difference to content quality.
+
 So I want to share some of the best, most insightful and *fastest* techniques we have to gauge content appetite and awareness.
-### The GIF scale
+
+#### The GIF scale
+
 This is an activity we use a lot when we’re in the early stages of working with a client, and we’re learning about the teams, stakeholders, power structures and influences within that organisation. This stage of a project is usually all about saturating our brains in names, roles, org charts and relationships, and this activity is one of the fastest ways of uncovering  lots of information about the appetite and emotional landscape of teams. 
+
 You devise a scale of one to five and represent it in GIFs - here we have from “yikes” to “amazing” and we asked this team to tell us how they feel about the website.
-![](image%204.png)
+
+![](assets/img/content-strategy-is-dead/gif-scale-1.png)
+
 You’ll see it gives us a really great snapshot that tells us a lot about how this project it going to go. Just from this quick one-minute activity we can see:
+
 - this team pulls no punches in their assessment of the product; we will be able to have frank conversations with them about what needs to be done
 - they are pretty well aligned; only two outliers but otherwise a high convergence
 - they are likely going to want us to push them along; they probably won’t be resistant to change
+
 Let’s look at another example!
 
-#### What’s so good about it?
+![](assets/img/content-strategy-is-dead/gif-scale-2.png)
+
+In this project, we were working with a team of sclimate scientists, who also happen to have responsibility for keeping their stakeholders and clients informed via the website. We used this activity to understand how this content management process was sitting with them.
+
+As you can see, it was a relatively mild response (unusual!) From this we can see that the team are getting on with the work (they're not in "Pure panic" mode) but they're also not entirely comfortable.
+
+This is a team that is likely highly receptive to some training and help. We can start to identify individuals who may be particularly engaged in further content work. 
+
+#### This activity delivers huge information in record time
+
 - **It doubles as an ice breaker and a warm up** - it sets a great tone, gets people laughing and chatting, and breaks down barriers.
 - **It’s packs a punch** - this activity takes 3-5 minutes and provides so much information about teams and organisations.
+- **It feeds into our next layer of engagement** - we can start to identify teams and individuals who could be great content ally candidates; people who are engaged but recognise the need for improvements.
