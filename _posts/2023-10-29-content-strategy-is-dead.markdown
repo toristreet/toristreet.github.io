@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Content strategy is dead, long live content strategy"
-categories: "content strategy" talks
 ---
 ![A title slide in the style of shakespeare that says 'Content strategy is dead, long live content strategy' over a black and white image of a historic graveyard. A banner covers the bottom of the image that says Tori Sanderson and 'Web Direction Summit 23.'](/assets/img/content-strategy-is-dead/content-strategy-is-dead.png)
 
