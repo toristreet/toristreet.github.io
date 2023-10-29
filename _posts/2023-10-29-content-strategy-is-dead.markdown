@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Content strategy is dead, long live content strategy"
-categories: content strategy, talks
+categories: "content strategy" talks
 ---
 ![A title slide in the style of shakespeare that says 'Content strategy is dead, long live content strategy' over a black and white image of a historic graveyard. A banner covers the bottom of the image that says Tori Sanderson and 'Web Direction Summit 23.'](/assets/img/content-strategy-is-dead/content-strategy-is-dead.png)
 
@@ -34,7 +34,7 @@ If content design is the hard work of creating products that work, then content 
 
 But so often we fail to genuinely engage with an organisation’s very real constraints and challenges. We exist to **help build great products, not deliver great content strategies.** 
 
-![](assets/img/content-strategy-is-dead/building-great-products.png)
+![](/assets/img/content-strategy-is-dead/building-great-products.png)
 
 And yet so often we are like these people trying to build a tower, while not speaking the language of everyone around us.
 
@@ -60,7 +60,7 @@ And this is especially true in the content space. We — content designers, 
 
 Because, of course, it also means this:
 
-![](assets/img/content-strategy-is-dead/content-isnt-created-by-content-people.png)
+![](/assets/img/content-strategy-is-dead/content-isnt-created-by-content-people.png)
 
 To the extent that content on the web is created by people at *all* (no longer a given!), it is mostly **not** created by content people.
 
@@ -95,7 +95,7 @@ Over the last 12–24 months we’ve been working with clients to try a new way 
 
 And we’re convinced that **no decision you make about content will be as powerful as spending time with the people who make the content.**
 
-![](assets/img/content-strategy-is-dead/building-content-culture.png)
+![](/assets/img/content-strategy-is-dead/building-content-culture.png)
 
 ## Influence, not decisions
 
@@ -125,7 +125,7 @@ It wasn’t faster, or easier. But it does work.
 
 So how did we do this? 
 
-![](assets/img/content-strategy-is-dead/eiffel-tower.png)
+![](/assets/img/content-strategy-is-dead/eiffel-tower.png)
 
 To extend the tower building metaphors, we start with a wide base. 
 
@@ -133,7 +133,7 @@ We first run wide content discoveries across as much of the organisation as we c
 
 This is all with one goal in mind: to turn **content stakeholders** into **content allies.** 
 
-![](assets/img/3-steps.png)
+![](/assets/img/3-steps.png)
 
 ## Go wide in discovery
 I won’t go into detail here about running discovery activities or projects. Suffice to say, we aim to meet with or talk to as many people in the organisation as possible - every person who touches content while it makes its merry way from creation to production.
